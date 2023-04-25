@@ -15,11 +15,11 @@
 
 <br>
 
-![Movie App]()
+![Movie App](images/movie-app.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Movie-App/)
 
 <br>
 
